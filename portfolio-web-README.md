@@ -4,7 +4,7 @@ Portfólio pessoal desenvolvido com HTML5 e CSS3.
 
 ## 🔗 Acesse
 
-👉 [endriu-presmini.github.io/portfolio-web](https://endriu-presmini.github.io/portfolio-web)
+👉 [endriu-presmini.github.io/portfolio-web](https://endriu-presmini.github.io/portfolio-web/)
 
 ## 📄 Sobre o projeto
 
